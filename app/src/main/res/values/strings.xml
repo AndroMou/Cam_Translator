@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="App_id">ca-app-pub-5963817566033623~8073796170</string>
+    <string name="admob_banner_id">ca-app-pub-5963817566033623/9195306155</string>
+
+
+    <string name="app_name"> CamTranslator</string>
+    <string name="txt_m_ore">Let us know what you think of this app in the comments</string>
+
+
+    <string name="sekbapeed">Speed</string>
+    <string name="sekpitc">Pitch</string>
+
+
+    <string name="noidenlang">Can\'t identify language.</string>
+    <string name="englang">English</string>
+    <string name="frlang">French</string>
+    <string name="delang">German</string>
+    <string name="itlang">Italian</string>
+
+
+    <string name="arlang">Arabic</string>
+    <string name="eslang">Spanish</string>
+    <string name="ptlang">Portuguese</string>
+    <string name="wi_dow_nload_lib_rary">Activate the WiFi to download Library.!</string>
+    <string name="wa_oment">Wait a moment.!!</string>
+    <string name="neee_dow_Library">You need Wifi to download Library.!!</string>
+    <string name="btndimiss">Dismiss</string>
+    <string name="textview_utile"> If you like the app, share it with your friends. </string>
+    <string name="n_me_o_f_f_ile">Name of file</string>
+
+    <string name="c_txt_clioard">Text has been copied.</string>
+
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> CamTranslator</string>
+    <string name = "txt_m_ore"> أخبرنا برأيك في هذا التطبيق في التعليقات </string>
+    <string name = "c_txt_clioard"> تم نسخ النص. </string>
+    <string name = "sekbapeed"> السرعة </string>
+    <string name = "sekpitc"> العرض التقديمي </string>
+
+    <string name = "noidenlang"> لا يمكن التعرف على اللغة. </string>
+    <string name = "englang"> الإنجليزية </string>
+    <string name = "frlang"> الفرنسية </string>
+    <string name = "delang"> الألمانية </string>
+    <string name = "itlang"> إيطالي </string>
+    <string name = "n_me_o_f_f_ile"> اسم الملف </string>
+    <string name="textview_utile">إذا أعجبك التطبيق, شاركه مع أصدقائك.</string>
+
+    <string name="wi_dow_nload_lib_rary">قم بتفعيل الواي فاي لتحميل المكتبة.</string>
+    <string name="wa_oment">انتظر لحظة</string>
+    <string name="neee_dow_Library">قم بتفعيل الواي فاي لتحميل المكتبة.</string>
+    <string name="btndimiss">خروج</string>
+
+    <string name = "arlang"> العربية </string>
+    <string name = "eslang"> الإسبانية </string>
+    <string name = "ptlang"> البرتغالية </string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> CamTranslator</string>
+    <string name = "txt_m_ore"> Laat ons weten wat je van deze app vindt in de comments </string>
+    <string name = "c_txt_clioard"> Tekst is gekopieerd. </string>
+
+
+    <string name = "sekbapeed"> Snelheid </string>
+    <string name = "sekpitc"> Pitch </string>
+    <string name = "n_me_o_f_f_ile"> Name der Datei </string>
+    <string name = "noidenlang"> Kan taal niet identificeren. </string>
+    <string name = "englang"> Engels </string>
+    <string name = "frlang"> Frans </string>
+    <string name = "delang"> Duits </string>
+    <string name = "itlang"> Italiaans </string>
+
+    <string name = "arlang"> Arabisch </string>
+    <string name = "eslang"> Spaans </string>
+    <string name = "ptlang"> Portugees </string>
+
+</resources>

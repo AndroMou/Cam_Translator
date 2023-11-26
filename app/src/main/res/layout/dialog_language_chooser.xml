@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/_220sdp"
+    android:layout_gravity="center"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/_30sdp"
+    android:paddingRight="@dimen/_30sdp"
+    android:paddingBottom="@dimen/_30sdp">
+
+    <TextView
+        android:id="@+id/txtlang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_4sdp"
+        android:gravity="center"
+        android:text="TextView"
+        android:textColor="@color/colorAccentWhite"
+        android:textSize="14sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnLangIt"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/itlang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangPt"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:onClick="onTranslate"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:text="@string/ptlang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangEn"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/englang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangFr"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/frlang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangDe"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/delang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangAr"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/arlang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/btnLangEs"
+                android:layout_width="@dimen/_120sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/button_background"
+                android:onClick="onTranslate"
+                android:text="@string/eslang"
+                android:textColor="@color/colorAccentWhite"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
